@@ -122,7 +122,7 @@ A venture-backed platform I co-founded and led as CTO, spanning university comme
 
 **Work included:** product strategy, architecture, full-stack delivery, infrastructure, hiring, mentoring, and operations
 
-[Read the case study →](https://bruno-tome-portfolio.brntr.chatgpt.site/)
+[Visit BeUni →](https://beuni.com.br/) · [Read the case study →](https://bruno-tome-portfolio.brntr.chatgpt.site/)
 
 </td>
 </tr>
@@ -132,14 +132,18 @@ A venture-backed platform I co-founded and led as CTO, spanning university comme
 
 <div align="center">
 
-<a href="https://github.com/Bruno-Tome">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Bruno-Tome&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Bruno's GitHub stats" />
-</a>
-<a href="https://github.com/Bruno-Tome">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Tome&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Bruno's most used languages" />
+<a href="https://github.com/Bruno-Tome?tab=repositories">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bruno-Tome&theme=tokyonight" alt="Bruno's GitHub contribution summary" width="96%" />
 </a>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bruno-Tome&theme=tokyo-night&hide_border=true&area=true" alt="Bruno's contribution graph" width="96%" />
+<a href="https://github.com/Bruno-Tome?tab=repositories">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bruno-Tome&theme=tokyonight" alt="Bruno's repositories by language" />
+</a>
+<a href="https://github.com/Bruno-Tome">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bruno-Tome&theme=tokyonight" alt="Bruno's GitHub statistics" />
+</a>
+
+[Repositories](https://github.com/Bruno-Tome?tab=repositories) · [Contribution history](https://github.com/Bruno-Tome?tab=overview)
 
 </div>
 
