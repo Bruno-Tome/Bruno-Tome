@@ -2,9 +2,9 @@
 
 # Bruno Tomé Rosa
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=6C63FF&center=true&vCenter=true&repeat=true&width=720&lines=Software+Engineer+%7C+Founder+%7C+AI+Builder;Building+products+from+zero+to+production;Full-stack+systems%2C+cloud+and+agentic+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=6C63FF&center=true&vCenter=true&repeat=true&width=720&lines=Software+Engineer+%7C+Founder+%7C+AI+Builder;Building+Briko+Capital's+platform+from+day+one;Building+products+from+zero+to+production;Full-stack+systems%2C+cloud+and+agentic+AI)](https://git.io/typing-svg)
 
-Computer Engineer from **USP São Carlos**, former **CTO and co-founder of BeUni**, and a product-minded engineer who enjoys turning ambiguous ideas into reliable software.
+Computer Engineer from **USP São Carlos**, founding engineer at **Briko Capital**, former **CTO and co-founder of BeUni**, and a product-minded engineer who enjoys turning ambiguous ideas into reliable software.
 
 [![Portfolio](https://img.shields.io/badge/Explore_my_portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bruno-tome-portfolio.brntr.chatgpt.site/)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bruno-Tome)
@@ -16,6 +16,7 @@ Computer Engineer from **USP São Carlos**, former **CTO and co-founder of BeUni
 
 ## About me
 
+- 🏦 Founding engineer at **Briko Capital**: I bootstrapped the backend and the admin dashboard, and built the cloud platform, security model and delivery pipeline they run on.
 - 🚀 Built **BeUni** from concept to a funded technology company, leading product and engineering.
 - 👥 Led and mentored a four-person engineering team from internship to mid-level ownership.
 - 🧠 Currently building with **AI agents, LLM APIs, RAG, MCP, automation, and AI-assisted SDLCs**.
@@ -29,6 +30,41 @@ Computer Engineer from **USP São Carlos**, former **CTO and co-founder of BeUni
 At BeUni, I worked across technology, product, logistics, and business. We built university marketplaces before evolving into a corporate-gifting platform. I helped deliver the full product lifecycle—from architecture and implementation to hiring, mentoring, deployment, and operations—while the company raised significant investment.
 
 </details>
+
+## Now: Briko Capital
+
+Since September 2026 I have been building Briko's platform from the first commit. My focus is the foundation: runtime, infrastructure, security, delivery and observability, so a small team (and its AI agents) can ship safely every day.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Backend platform
+
+- Bootstrapped the TypeScript backend and evolved it into a containerized **Node.js** API and job worker on **AWS**, backed by managed **PostgreSQL**
+- Wrote the cloud infrastructure as code, with keyless, short-lived-credential deploys from CI
+- Designed and built a **role-and-scope access engine** that generates PostgreSQL **row-level security**, so data access is enforced in the database
+- Built the first versions of the data layer, the provider-sync worker on a Postgres queue, and an **MCP server** that exposes the API to AI agents
+- Built end-to-end **observability**: tracing, metrics and logs across the API and background jobs
+
+</td>
+<td width="50%" valign="top">
+
+### 🖥️ Admin dashboard
+
+- Founded the **React** dashboard and wrote most of it: the app shell, auth and access guard, and every feature module
+- Generated a typed API client from the backend's OpenAPI contract
+- Built leadership views (bottlenecks and SLAs, seller ranking, conversion trends) and role-scoped portals for sales and quoting
+- Added browser tracing, unit and end-to-end test suites, and an accessible design system
+
+### 🚚 Delivery
+
+- Set up **dev → stage → prod** promotion with semantic-version releases, release candidates and automated changelogs
+- Set up a Jira-backed, review-gated workflow that people and AI agents follow on every change
+
+</td>
+</tr>
+</table>
 
 ## Tech stack
 
@@ -48,6 +84,7 @@ At BeUni, I worked across technology, product, logistics, and business. We built
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![REST](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -60,8 +97,11 @@ At BeUni, I worked across technology, product, logistics, and business. We built
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### AI toolkit
